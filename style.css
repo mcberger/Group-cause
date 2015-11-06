@@ -6,7 +6,7 @@ body{
  	border: 2px solid black;
  	width: 75px;
     height: 600px;
-    background-color: red;
+    background-color: #5CD6D6;
     -webkit-transition: width 2s;
     transition: width 2s;
 	transition-timing-function: linear
@@ -22,7 +22,7 @@ body{
 }
 
 .navul{ 
-	background-color: green;
+	background-color: #FFFFA1;
 	border: 2px solid black;
 	margin-top: 50px;
 	float: left;
@@ -40,7 +40,7 @@ body{
 .navli{
 	font-family: 'Alfa Slab One', cursive;
 	font-size: 24px;
-	background-color: red;
+	background-color: #5CD6D6;
 	padding: 10px 0px 0px 3.75px;
 	margin: 20px 35px 0px 0px;
 	display: block;
@@ -60,11 +60,11 @@ body{
 }
 
 .navli a:link{
-	color: yellow;
+	color: #FF0066;
 }
 
 .navli a:visited{
-	color: yellow;
+	color: #FF0066;
 }
 
 .centerwrapper{
