@@ -11,6 +11,12 @@ body{
     transition: width 2s;
 	transition-timing-function: linear
 }
+
+.navbar-wrapper{
+	width: 300px;
+	float: left;
+}
+
 .navbar:hover{
 	width: 150px
 }
@@ -59,6 +65,7 @@ body{
 
 .navli a:visited{
 	color: yellow;
+}
 
 .centerwrapper{
 	width: 900px;
@@ -76,6 +83,7 @@ a:hover{
 
 h1{
 	text-align: center;
+	margin-top: 0px;
 }
 
 li{
@@ -85,6 +93,26 @@ li{
 ul{
 	list-style: circle;
 }
+
+.image-wrapper{
+	text-align: center;
+}
+
+.title{
+	padding-top: 50px;
+	font-size: 60px;
+	margin-top: 0px;
+}
+
+.subtitle{
+	text-align: center;
+	font-size: 40px;
+}
+
+#iframe-wrapper{
+	padding: 40px;
+}
+
 
 
 
